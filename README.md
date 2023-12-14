@@ -1,7 +1,7 @@
 # portfolio_tejesh
-Web Development Internship-CODESOFT
+Web Development Internship-CODSOFT
 <br>
-My First task -1 in codesoft internhip program <br>
+My First task -1 in codsoft internhip program <br>
 Creating a personal portfolio using CSS and HTML is a popular beginner web development
 
 project.
